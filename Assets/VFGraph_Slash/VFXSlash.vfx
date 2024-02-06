@@ -95,8 +95,8 @@ MonoBehaviour:
     max: Infinity
     enumValues: []
     descendantCount: 0
-  - name: Voronoi_Scale1
-    path: Voronoi_Scale1
+  - name: Voronoi_Speed
+    path: Voronoi_Speed
     tooltip: 
     sheetType: m_Float
     realType: Single
@@ -2612,7 +2612,7 @@ MonoBehaviour:
   m_InputSlots: []
   m_OutputSlots:
   - {fileID: 8926484042661614661}
-  m_ExposedName: Voronoi_Scale1
+  m_ExposedName: Voronoi_Speed
   m_Exposed: 1
   m_Order: 3
   m_Category: 

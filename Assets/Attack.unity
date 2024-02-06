@@ -606,13 +606,13 @@ VisualEffect:
       - m_Value: 4
         m_Name: Voronoi_Scale1
         m_Overridden: 1
-      - m_Value: 4
+      - m_Value: 1.66
         m_Name: Voronoi_Scale
         m_Overridden: 1
-      - m_Value: 1.5
+      - m_Value: 0.75
         m_Name: Voronoi_Dissolve
         m_Overridden: 1
-      - m_Value: 4
+      - m_Value: 1.99
         m_Name: Multiply_Curve
         m_Overridden: 1
     m_Vector2f:
