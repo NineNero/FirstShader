@@ -271,7 +271,7 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
-    - _Voronoi_Color: {r: 0, g: 0.4691372, b: 1.207547, a: 1}
+    - _Voronoi_Color: {r: 1.1938049, g: 0.056252576, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2005168721752457226
 MonoBehaviour:
